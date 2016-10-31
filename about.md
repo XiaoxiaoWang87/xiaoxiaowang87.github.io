@@ -6,7 +6,9 @@ permalink: /about/
 
 Some information about you!
 
+{% comment %} 
 ![_config.yml](/images/IMG_0527.jpg)
+{% endcomment %}
 
 ### More Information
 
