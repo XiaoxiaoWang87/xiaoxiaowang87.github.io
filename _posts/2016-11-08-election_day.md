@@ -30,7 +30,7 @@ Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update
 
 There are [far more undecided voters this year](http://fivethirtyeight.com/features/election-update-why-clintons-position-is-worse-than-obamas/) than in 2012 when Obama won the presidency. This could potentially contribute a large error to the pre-election poll results.
 
-A larger-than-normal error of course can help Clinton win a big margin, but given how tight the race is it can also put Trump to a lead.
+A larger-than-normal error of course can help Clinton win a big margin, but given how tight the race is it can also put Trump to win.
 
 **3. Systematic errors among states are usually correlated.**
 
