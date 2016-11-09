@@ -32,7 +32,7 @@ A larger-than-normal error of course can help Clinton win a big margin, but give
 
 **3. Systematic errors among states are usually correlated.**
 
-One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state which originally favored Clinton in the pre-election polls turned out to support Trump in the end, other states in a similar position could do the same.
+One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state who originally favored Clinton in the pre-election polls turned out to support Trump in the end, other states in a similar position could do the same.
 
 This is not hard to understand. If one of the candidates did a better job campaigning in the last minute, undecided voters across states could be influenced in a similar way.
 
