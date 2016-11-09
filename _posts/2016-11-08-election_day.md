@@ -28,13 +28,13 @@ Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update
 
 There are [far more undecided voters this year](http://fivethirtyeight.com/features/election-update-why-clintons-position-is-worse-than-obamas/) than in 2012 when Obama won the presidency. This could potentially contribute a large error to the pre-election poll results.
 
-A larger-than-normal error of course can help Clinton win a big margin, but given how tight the race is it can also put Trump to win.
+A larger-than-normal error of course can give Clinton a landslide victory, but given how tight the race is it can also put Trump to win.
 
 **3. Systematic errors among states are usually correlated.**
 
 One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state who originally favored Clinton in the pre-election polls turned out to support Trump in the end, other states in a similar position could do the same.
 
-This is not hard to understand. If one of the candidates did a better job campaigning in the last minute, undecided voters across states could be influenced in a similar way.
+This is not hard to understand. If one of the candidates did a better job campaigning in the last minute or had less negative news, undecided voters across states could be influenced in a correlated way.
 
 -----------------------------
 
