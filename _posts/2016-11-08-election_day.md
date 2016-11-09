@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The errors of pre-election polls
+title: The errors in pre-election polls
 comments: true
 ---
 
