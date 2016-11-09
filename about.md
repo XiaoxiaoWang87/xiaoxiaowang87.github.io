@@ -4,15 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my website! I'm currently a data scientist working and living in the Bay Area. I had my Ph.D. in physics working on the ATLAS Experiment at the Large Hadron Collider.
 
-{% comment %} 
+In addition to playing around with data, I like hiking, playing basketball, and watching *The Big Bang Theory* while cooking egg fried rice.
+
+{% comment %}
 ![_config.yml](/images/IMG_0527.jpg)
 {% endcomment %}
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
