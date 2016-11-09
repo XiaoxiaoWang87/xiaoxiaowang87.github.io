@@ -38,4 +38,4 @@ This is not hard to understand. If one of the candidates did a better job campai
 
 -----------------------------
 
-It's already 9pm PT now, but the final result is still not determined. Let's see who will eventually use the polling error to their advantage!
+It's already 9pm PT now, but the final result is yet determined. Let's see who will eventually use the polling error to their advantage!
