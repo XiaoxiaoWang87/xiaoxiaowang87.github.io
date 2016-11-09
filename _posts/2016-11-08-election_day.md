@@ -24,7 +24,7 @@ Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update
 
 * Where do they come from?
 
-  I have to say I'm by no means an election poll expert. But there are several sources of systematic errors I can think of. Maybe some of the polls are inherently biased, whether because of their political standpoints or their sampling methodologies. In addition, an important source of uncertainties come from undecided voters who may have a last-minute swing. Also, some groups of population can have a low response rate and are not fully represented in the pre-election polls.
+  There are several sources of systematic errors I can think of. Maybe some of the polls are inherently biased, whether because of their political standpoints or their sampling methodologies. In addition, an important source of uncertainties come from undecided voters who may have a last-minute swing. Also, some groups of population can have a low response rate and are not fully represented in the pre-election polls.
 
 **2. Systematic errors of this year can be larger than usual.**
 
