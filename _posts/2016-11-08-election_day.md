@@ -4,7 +4,7 @@ title: The errors in pre-election polls
 comments: true
 ---
 
-As I'm sitting in front of the TV and watching the election results unveiling, I decided to write a few words here. So far the battles have been extremely intense. In Florida, North Carolina, and New Hampshire, Clinton and Trump's differences are all within 1%. A few other states are also too close to call.
+As I'm sitting in front of the TV and waiting for the final election outcome, I decided to write a few words here. So far the battles have been extremely intense. In Florida, North Carolina, and New Hampshire, Clinton and Trump's differences are all within 1%. A few other states are also too close to call.
 
 The pre-election polls have shown that on average Clinton led Trump by about 3%, which was tightened to ~2% after FBI director James Comey's letter to Congress. No matter how much we want them to, the pre-election polls do not necessarily reflect the final outcome of the election due to polling errors. One of my favorite websites [FiveThirtyEight](http://fivethirtyeight.com/) had an excellent discussion on this. [Their chart](http://fivethirtyeight.com/features/trump-is-just-a-normal-polling-error-behind-clinton/) below shows that polls a week before the election historically have a 2% error on average. As the race of two candidates became so close, it is not surprising that this size of an error could swap their final ranking.
 
