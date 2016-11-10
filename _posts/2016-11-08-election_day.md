@@ -34,7 +34,7 @@ A larger-than-normal error of course can give Clinton a landslide victory, but g
 
 One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state which originally favored Clinton in the pre-election polls changed its position, other similar states could behave the same.
 
-This is not hard to understand. If one candidate did a better job campaigning in the last minute or had less negative news, undecided voters across different states could gravitate toward him / her in a correlated way. This is also a key difference between a systematic and a statistical error -- the latter is random and does not have this correlation.
+This is not hard to understand. If one candidate did a better job campaigning in the last minute or had less negative news, undecided voters across different states could gravitate toward him / her in a correlated way. This is also **a key difference between a systematic and a statistical error** -- the latter is random and does not have this correlation.
 
 -----------------------------
 
