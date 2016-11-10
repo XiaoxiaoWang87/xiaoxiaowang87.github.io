@@ -14,11 +14,11 @@ There are three things about the pre-election polling error that I think worth m
 
 **1. It is mainly dominated by systematic errors.**
 
-Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update-dont-ignore-the-polls-clinton-leads-but-its-a-close-race/) that the 14 fully post-Comey polls he used have a combined sample size of **23,032**, which yields a **0.6%** of **statistical error**. If we assume an average **2%** of total error, then the **systematic error** should be **> 1.9%**.
+Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update-dont-ignore-the-polls-clinton-leads-but-its-a-close-race/) that the 14 fully post-Comey polls he used have a combined sample size of **23,032**, which yields a **0.6%** of **statistical error**. If I assume an average **2%** of total error, then the **systematic error** should be **> 1.9%**.
 
 * What are systematic errors?
 
-  In short, they are the **biases** of a measurement. They affect repeated measurements in the same way. They are not directly due to statistics of the data and can not be reduced by increasing the sample size. This is one of the first concepts you will encounter in a college physics course.
+  In short, they are **biases** of a measurement. They affect repeated measurements in the same way. They are not directly due to statistics of the data and can not be reduced by increasing the sample size. This is one of the first concepts you will encounter in a college physics course.
 
 * Where do they come from?
 
@@ -32,9 +32,9 @@ A larger-than-normal error of course can give Clinton a landslide victory, but g
 
 **3. Systematic errors among states are usually correlated.**
 
-One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state who originally favored Clinton in the pre-election polls turned out to support Trump in the end, other states in a similar position could do the same.
+One of the things I learned from reading [FiveThirtyEight](http://fivethirtyeight.com/) blogs is that historically the polling errors among states are usually correlated. This means if a swing state which originally favored Clinton in the pre-election polls changed its position, other similar states could behave the same.
 
-This is not hard to understand. If one of the candidates did a better job campaigning in the last minute or had less negative news, undecided voters across states could be influenced in a correlated way.
+This is not hard to understand. If one candidate did a better job campaigning in the last minute or had less negative news, undecided voters across different states could gravitate toward him / her in a correlated way. This is also a key difference between a systematic and a statistical error -- the latter is random and does not have this correlation.
 
 -----------------------------
 
