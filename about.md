@@ -10,7 +10,7 @@ I'm a data scientist working and living in the Bay Area. Before that I had my Ph
 
 I enjoy both the analytical and engineering aspects of data science. Ultimately I hope I can use data to truly benefit people's lives.
 
-I like hiking, playing basketball, and I'm also a big fan of *The Big Bang Theory*.
+I like hiking, playing basketball, and I'm a big fan of *The Big Bang Theory*.
 
 {% comment %}
 ![_config.yml](/images/IMG_0527.jpg)
