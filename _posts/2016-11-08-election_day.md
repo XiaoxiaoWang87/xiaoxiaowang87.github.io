@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The errors in pre-election polls
+title: The Errors in Pre-election Polls
 comments: true
 ---
 
@@ -8,7 +8,7 @@ As I'm sitting in front of the TV and waiting for the final election outcome, I 
 
 The pre-election polls have shown that on average Clinton led Trump by about 3%, which was tightened to ~2% after FBI director James Comey's letter to Congress. No matter how much we want them to, the pre-election polls do not necessarily reflect the final outcome of the election due to polling errors. One of my favorite websites [FiveThirtyEight](http://fivethirtyeight.com/) had an excellent discussion on this. [Their chart](http://fivethirtyeight.com/features/trump-is-just-a-normal-polling-error-behind-clinton/) below shows that polls a week before the election historically have a 2% error on average. As the race of two candidates became so close, it is not surprising that this size of an error could swap their final ranking.
 
-![_config.yml](/images/pre-election_poll_errors.png)
+![_config.yml](/images/2016-11-08-election_day/pre-election_poll_errors.png)
 
 There are three things about the pre-election polling error that I think worth mentioning:
 
