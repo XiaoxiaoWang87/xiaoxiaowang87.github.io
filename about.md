@@ -8,7 +8,7 @@ My name is Xiaoxiao Wang. I'm a data scientist living in the Bay Area. Before th
 
 I'm passionate about both the analytical and engineering aspects of data science. I'm also a strong believer of using data to truly improve people's lives and make our world a better place.
 
-I like hiking, playing basketball, and learning about any cool things in science and technology. I'm a big fan of *The Big Bang Theory*. Bazinga!
+I like hiking, playing basketball, and learning about cool things in science and technology. I'm a big fan of *The Big Bang Theory*. Bazinga!
 
 {% comment %}
 ![_config.yml](/images/atlas_1.jpg)
