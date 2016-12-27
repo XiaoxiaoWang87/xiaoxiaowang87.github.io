@@ -9,4 +9,4 @@ Not much fun yet.. But stay tuned.
 
 ### Hangman Game
 
-If you are bored, you could try a round of **[Hangman](http://xiaoxiaowang87hangmangame.us/){:target="_blank"}**. All it takes were a few lines of Python and JavaScript.
+If you are bored, you could try a round of **[Hangman](http://xiaoxiaowang87hangmangame.us/){:target="_blank"}**. All it took were a few lines of Python and JavaScript.
