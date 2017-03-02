@@ -10,15 +10,15 @@ The pre-election polls have shown that on average Clinton led Trump by about 3%,
 
 ![_config.yml](/images/2016-11-08-election_day/pre-election_poll_errors.png)
 
-There are three things about the pre-election polling error that I think worth mentioning:
+There are three things about the pre-election polling error worth pointing out:
 
 **1. It is mainly dominated by systematic errors.**
 
-Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update-dont-ignore-the-polls-clinton-leads-but-its-a-close-race/) that the 14 fully post-Comey polls he used have a combined sample size of **23,032**, which yields a **0.6%** of **statistical error**. If I assume an average **2%** of total error, then the **systematic error** should be **> 1.9%**.
+Nate Silver mentioned [here](http://fivethirtyeight.com/features/election-update-dont-ignore-the-polls-clinton-leads-but-its-a-close-race/) that the 14 fully post-Comey polls he used have a combined sample size of **23,032**, which yields a **0.6%** of **statistical error**. If we assume in previous elections the statistical error can also reach this level, then the **systematic error** should always be dominant.
 
 * What are systematic errors?
 
-  In short, they are **biases** of a measurement. They affect repeated measurements in the same way. They are not directly due to statistics of the data and can not be reduced by increasing the sample size. This is one of the first concepts you will encounter in a college physics course.
+  In short, they are **biases** of a measurement. They affect repeated measurements in the same way and can not be reduced by increasing the sample size. This is one of the first concepts you will encounter in a college physics course.
 
 * Where do they come from?
 
